@@ -1,0 +1,110 @@
+[
+  {
+    "id": "100023456701",
+    "name": "英特尔(Intel) i5-14400 第14代 台式机CPU",
+    "category": "Intel CPU",
+    "brand": "Intel",
+    "model": "i5-14400",
+    "cores": 10,
+    "threads": 16
+  },
+  {
+    "id": "100023456702",
+    "name": "英特尔(Intel) i5-14600K 第14代 台式机CPU",
+    "category": "Intel CPU",
+    "brand": "Intel",
+    "model": "i5-14600K",
+    "cores": 14,
+    "threads": 20
+  },
+  {
+    "id": "100023456703",
+    "name": "英特尔(Intel) i7-14700K 第14代 台式机CPU",
+    "category": "Intel CPU",
+    "brand": "Intel",
+    "model": "i7-14700K",
+    "cores": 20,
+    "threads": 28
+  },
+  {
+    "id": "100023456704",
+    "name": "英特尔(Intel) i9-14900K 第14代 台式机CPU",
+    "category": "Intel CPU",
+    "brand": "Intel",
+    "model": "i9-14900K",
+    "cores": 24,
+    "threads": 32
+  },
+  {
+    "id": "100023456705",
+    "name": "AMD 锐龙5 7600 台式机CPU",
+    "category": "AMD CPU",
+    "brand": "AMD",
+    "model": "R5 7600",
+    "cores": 6,
+    "threads": 12
+  },
+  {
+    "id": "100023456706",
+    "name": "AMD 锐龙7 7700 台式机CPU",
+    "category": "AMD CPU",
+    "brand": "AMD",
+    "model": "R7 7700",
+    "cores": 8,
+    "threads": 16
+  },
+  {
+    "id": "100023456707",
+    "name": "AMD 锐龙7 7800X3D 台式机CPU",
+    "category": "AMD CPU",
+    "brand": "AMD",
+    "model": "R7 7800X3D",
+    "cores": 8,
+    "threads": 16
+  },
+  {
+    "id": "100023456708",
+    "name": "AMD 锐龙9 7900X 台式机CPU",
+    "category": "AMD CPU",
+    "brand": "AMD",
+    "model": "R9 7900X",
+    "cores": 12,
+    "threads": 24
+  },
+  {
+    "id": "100023456709",
+    "name": "AMD 锐龙9 7950X 台式机CPU",
+    "category": "AMD CPU",
+    "brand": "AMD",
+    "model": "R9 7950X",
+    "cores": 16,
+    "threads": 32
+  },
+  {
+    "id": "100023456710",
+    "name": "英特尔(Intel) i5-13400F 第13代 台式机CPU",
+    "category": "Intel CPU",
+    "brand": "Intel",
+    "model": "i5-13400F",
+    "cores": 10,
+    "threads": 16
+  },
+  {
+    "id": "100023456711",
+    "name": "英特尔(Intel) i7-13700K 第13代 台式机CPU",
+    "category": "Intel CPU",
+    "brand": "Intel",
+    "model": "i7-13700K",
+    "cores": 16,
+    "threads": 24
+  },
+  {
+    "id": "100023456712",
+    "name": "AMD 锐龙5 5600 台式机CPU",
+    "category": "AMD CPU",
+    "brand": "AMD",
+    "model": "R5 5600",
+    "cores": 6,
+    "threads": 12
+  }
+]
