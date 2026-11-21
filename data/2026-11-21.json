@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "timestamp": "2026-11-21T09:02:07.543147",
+  "timestamp": "2026-11-21T18:31:31.848793",
   "source": "simulated",
   "products": [
     {
@@ -12,9 +12,9 @@
       "cores": 10,
       "threads": 16,
       "url": "https://item.jd.com/100023456701.html",
-      "price": 1249.37,
-      "original_price": 1374.31,
-      "in_stock": true,
+      "price": null,
+      "original_price": null,
+      "in_stock": false,
       "coupon": null
     },
     {
@@ -26,9 +26,9 @@
       "cores": 14,
       "threads": 20,
       "url": "https://item.jd.com/100023456702.html",
-      "price": 1824.28,
-      "original_price": 2006.71,
-      "in_stock": true,
+      "price": null,
+      "original_price": null,
+      "in_stock": false,
       "coupon": null
     },
     {
@@ -40,8 +40,8 @@
       "cores": 20,
       "threads": 28,
       "url": "https://item.jd.com/100023456703.html",
-      "price": 2886.05,
-      "original_price": null,
+      "price": 2946.97,
+      "original_price": 3241.67,
       "in_stock": true,
       "coupon": null
     },
@@ -54,10 +54,10 @@
       "cores": 24,
       "threads": 32,
       "url": "https://item.jd.com/100023456704.html",
-      "price": 4336.88,
+      "price": null,
       "original_price": null,
-      "in_stock": true,
-      "coupon": 33.53
+      "in_stock": false,
+      "coupon": null
     },
     {
       "id": "100023456705",
@@ -68,8 +68,8 @@
       "cores": 6,
       "threads": 12,
       "url": "https://item.jd.com/100023456705.html",
-      "price": 1007.31,
-      "original_price": 1108.04,
+      "price": 1176.76,
+      "original_price": null,
       "in_stock": true,
       "coupon": null
     },
@@ -82,10 +82,10 @@
       "cores": 8,
       "threads": 16,
       "url": "https://item.jd.com/100023456706.html",
-      "price": 1621.22,
-      "original_price": 1783.34,
+      "price": 1730.64,
+      "original_price": null,
       "in_stock": true,
-      "coupon": 95.5
+      "coupon": null
     },
     {
       "id": "100023456707",
@@ -96,10 +96,10 @@
       "cores": 8,
       "threads": 16,
       "url": "https://item.jd.com/100023456707.html",
-      "price": 2680.57,
+      "price": 2786.65,
       "original_price": null,
       "in_stock": true,
-      "coupon": 74.33
+      "coupon": 33.2
     },
     {
       "id": "100023456708",
@@ -110,8 +110,8 @@
       "cores": 12,
       "threads": 24,
       "url": "https://item.jd.com/100023456708.html",
-      "price": 2908.45,
-      "original_price": null,
+      "price": 3066.75,
+      "original_price": 3373.43,
       "in_stock": true,
       "coupon": null
     },
@@ -124,8 +124,8 @@
       "cores": 16,
       "threads": 32,
       "url": "https://item.jd.com/100023456709.html",
-      "price": 4147.09,
-      "original_price": null,
+      "price": 4245.59,
+      "original_price": 4670.15,
       "in_stock": true,
       "coupon": null
     },
@@ -138,10 +138,10 @@
       "cores": 10,
       "threads": 16,
       "url": "https://item.jd.com/100023456710.html",
-      "price": 1043.88,
-      "original_price": 1148.27,
+      "price": 1027.45,
+      "original_price": null,
       "in_stock": true,
-      "coupon": null
+      "coupon": 53.09
     },
     {
       "id": "100023456711",
@@ -152,9 +152,9 @@
       "cores": 16,
       "threads": 24,
       "url": "https://item.jd.com/100023456711.html",
-      "price": null,
+      "price": 2281.45,
       "original_price": null,
-      "in_stock": false,
+      "in_stock": true,
       "coupon": null
     },
     {
@@ -166,10 +166,10 @@
       "cores": 6,
       "threads": 12,
       "url": "https://item.jd.com/100023456712.html",
-      "price": 764.06,
+      "price": 744.28,
       "original_price": null,
       "in_stock": true,
-      "coupon": null
+      "coupon": 54.76
     }
   ]
 }
