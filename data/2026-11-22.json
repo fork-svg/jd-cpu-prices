@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "timestamp": "2026-11-22T09:10:34.687184",
+  "timestamp": "2026-11-22T18:53:56.091450",
   "source": "simulated",
   "products": [
     {
@@ -12,7 +12,7 @@
       "cores": 10,
       "threads": 16,
       "url": "https://item.jd.com/100023456701.html",
-      "price": 1381.55,
+      "price": 1383.14,
       "original_price": null,
       "in_stock": true,
       "coupon": null
@@ -26,10 +26,10 @@
       "cores": 14,
       "threads": 20,
       "url": "https://item.jd.com/100023456702.html",
-      "price": 1836.74,
-      "original_price": null,
+      "price": 1924.58,
+      "original_price": 2117.04,
       "in_stock": true,
-      "coupon": null
+      "coupon": 90.83
     },
     {
       "id": "100023456703",
@@ -40,10 +40,10 @@
       "cores": 20,
       "threads": 28,
       "url": "https://item.jd.com/100023456703.html",
-      "price": 2917.87,
-      "original_price": 3209.66,
-      "in_stock": true,
-      "coupon": 64.46
+      "price": null,
+      "original_price": null,
+      "in_stock": false,
+      "coupon": null
     },
     {
       "id": "100023456704",
@@ -54,10 +54,10 @@
       "cores": 24,
       "threads": 32,
       "url": "https://item.jd.com/100023456704.html",
-      "price": 4250.79,
-      "original_price": null,
+      "price": 4263.4,
+      "original_price": 4689.74,
       "in_stock": true,
-      "coupon": null
+      "coupon": 99.25
     },
     {
       "id": "100023456705",
@@ -68,10 +68,10 @@
       "cores": 6,
       "threads": 12,
       "url": "https://item.jd.com/100023456705.html",
-      "price": 1096.01,
-      "original_price": null,
+      "price": 1157.84,
+      "original_price": 1273.62,
       "in_stock": true,
-      "coupon": null
+      "coupon": 87.49
     },
     {
       "id": "100023456706",
@@ -82,10 +82,10 @@
       "cores": 8,
       "threads": 16,
       "url": "https://item.jd.com/100023456706.html",
-      "price": 1791.17,
-      "original_price": null,
+      "price": 1776.51,
+      "original_price": 1954.16,
       "in_stock": true,
-      "coupon": null
+      "coupon": 62.78
     },
     {
       "id": "100023456707",
@@ -96,8 +96,8 @@
       "cores": 8,
       "threads": 16,
       "url": "https://item.jd.com/100023456707.html",
-      "price": 2650.41,
-      "original_price": 2915.45,
+      "price": 2616.87,
+      "original_price": null,
       "in_stock": true,
       "coupon": null
     },
@@ -110,10 +110,10 @@
       "cores": 12,
       "threads": 24,
       "url": "https://item.jd.com/100023456708.html",
-      "price": 2991.32,
-      "original_price": 3290.45,
-      "in_stock": true,
-      "coupon": 86.79
+      "price": null,
+      "original_price": null,
+      "in_stock": false,
+      "coupon": null
     },
     {
       "id": "100023456709",
@@ -124,10 +124,10 @@
       "cores": 16,
       "threads": 32,
       "url": "https://item.jd.com/100023456709.html",
-      "price": 4276.52,
-      "original_price": null,
+      "price": 4213.22,
+      "original_price": 4634.54,
       "in_stock": true,
-      "coupon": 82.06
+      "coupon": 76.26
     },
     {
       "id": "100023456710",
@@ -138,9 +138,9 @@
       "cores": 10,
       "threads": 16,
       "url": "https://item.jd.com/100023456710.html",
-      "price": null,
-      "original_price": null,
-      "in_stock": false,
+      "price": 959.07,
+      "original_price": 1054.98,
+      "in_stock": true,
       "coupon": null
     },
     {
@@ -152,10 +152,10 @@
       "cores": 16,
       "threads": 24,
       "url": "https://item.jd.com/100023456711.html",
-      "price": 2300.45,
-      "original_price": 2530.49,
+      "price": 2201.75,
+      "original_price": 2421.93,
       "in_stock": true,
-      "coupon": 53.78
+      "coupon": 59.06
     },
     {
       "id": "100023456712",
@@ -166,8 +166,8 @@
       "cores": 6,
       "threads": 12,
       "url": "https://item.jd.com/100023456712.html",
-      "price": 803.86,
-      "original_price": 884.25,
+      "price": 743.86,
+      "original_price": null,
       "in_stock": true,
       "coupon": null
     }
