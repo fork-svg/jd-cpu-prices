@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "timestamp": "2026-11-24T11:53:57.409106",
+  "timestamp": "2026-11-24T21:47:59.031566",
   "source": "simulated",
   "products": [
     {
@@ -12,9 +12,9 @@
       "cores": 10,
       "threads": 16,
       "url": "https://item.jd.com/100023456701.html",
-      "price": 1257.86,
-      "original_price": 1383.65,
-      "in_stock": true,
+      "price": null,
+      "original_price": null,
+      "in_stock": false,
       "coupon": null
     },
     {
@@ -26,10 +26,10 @@
       "cores": 14,
       "threads": 20,
       "url": "https://item.jd.com/100023456702.html",
-      "price": 1898.45,
-      "original_price": 2088.3,
-      "in_stock": true,
-      "coupon": 81.58
+      "price": null,
+      "original_price": null,
+      "in_stock": false,
+      "coupon": null
     },
     {
       "id": "100023456703",
@@ -40,10 +40,10 @@
       "cores": 20,
       "threads": 28,
       "url": "https://item.jd.com/100023456703.html",
-      "price": 2879.72,
-      "original_price": 3167.69,
-      "in_stock": true,
-      "coupon": 62.38
+      "price": null,
+      "original_price": null,
+      "in_stock": false,
+      "coupon": null
     },
     {
       "id": "100023456704",
@@ -54,10 +54,10 @@
       "cores": 24,
       "threads": 32,
       "url": "https://item.jd.com/100023456704.html",
-      "price": 4371.52,
-      "original_price": 4808.67,
+      "price": 4267.92,
+      "original_price": 4694.71,
       "in_stock": true,
-      "coupon": null
+      "coupon": 85.96
     },
     {
       "id": "100023456705",
@@ -68,10 +68,10 @@
       "cores": 6,
       "threads": 12,
       "url": "https://item.jd.com/100023456705.html",
-      "price": 1138.84,
+      "price": 1070.65,
       "original_price": null,
       "in_stock": true,
-      "coupon": null
+      "coupon": 52.11
     },
     {
       "id": "100023456706",
@@ -82,10 +82,10 @@
       "cores": 8,
       "threads": 16,
       "url": "https://item.jd.com/100023456706.html",
-      "price": 1644.68,
-      "original_price": null,
+      "price": 1644.95,
+      "original_price": 1809.45,
       "in_stock": true,
-      "coupon": 43.56
+      "coupon": 62.68
     },
     {
       "id": "100023456707",
@@ -96,7 +96,7 @@
       "cores": 8,
       "threads": 16,
       "url": "https://item.jd.com/100023456707.html",
-      "price": 2743.68,
+      "price": 2712.57,
       "original_price": null,
       "in_stock": true,
       "coupon": null
@@ -110,10 +110,10 @@
       "cores": 12,
       "threads": 24,
       "url": "https://item.jd.com/100023456708.html",
-      "price": 3011.46,
-      "original_price": 3312.61,
+      "price": 2983.45,
+      "original_price": 3281.8,
       "in_stock": true,
-      "coupon": null
+      "coupon": 57.16
     },
     {
       "id": "100023456709",
@@ -124,10 +124,10 @@
       "cores": 16,
       "threads": 32,
       "url": "https://item.jd.com/100023456709.html",
-      "price": 4280.56,
-      "original_price": 4708.62,
+      "price": 4252.1,
+      "original_price": 4677.31,
       "in_stock": true,
-      "coupon": null
+      "coupon": 27.02
     },
     {
       "id": "100023456710",
@@ -138,10 +138,10 @@
       "cores": 10,
       "threads": 16,
       "url": "https://item.jd.com/100023456710.html",
-      "price": 1000.97,
-      "original_price": 1101.07,
+      "price": 999.16,
+      "original_price": null,
       "in_stock": true,
-      "coupon": 53.06
+      "coupon": 96.09
     },
     {
       "id": "100023456711",
@@ -152,9 +152,9 @@
       "cores": 16,
       "threads": 24,
       "url": "https://item.jd.com/100023456711.html",
-      "price": 2314.46,
-      "original_price": 2545.91,
-      "in_stock": true,
+      "price": null,
+      "original_price": null,
+      "in_stock": false,
       "coupon": null
     },
     {
@@ -166,10 +166,10 @@
       "cores": 6,
       "threads": 12,
       "url": "https://item.jd.com/100023456712.html",
-      "price": 803.98,
+      "price": 842.9,
       "original_price": null,
       "in_stock": true,
-      "coupon": 24.96
+      "coupon": 82.92
     }
   ]
 }
